@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SDK", "Sdk\SDK.csproj", "{B
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoodLibrary", "GoodLibrary\GoodLibrary.csproj", "{45A5322D-084D-4029-B47F-FE3ABA929077}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CasCore", "..\..\CasCore\CasCore.csproj", "{9DEA9A49-DA25-4071-B6E1-C6EBC8DDF0AA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -36,5 +38,9 @@ Global
 		{45A5322D-084D-4029-B47F-FE3ABA929077}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{45A5322D-084D-4029-B47F-FE3ABA929077}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{45A5322D-084D-4029-B47F-FE3ABA929077}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9DEA9A49-DA25-4071-B6E1-C6EBC8DDF0AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DEA9A49-DA25-4071-B6E1-C6EBC8DDF0AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DEA9A49-DA25-4071-B6E1-C6EBC8DDF0AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DEA9A49-DA25-4071-B6E1-C6EBC8DDF0AA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
