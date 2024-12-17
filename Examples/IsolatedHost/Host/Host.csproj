@@ -7,9 +7,10 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
-  <!-- <ItemGroup>
-    <PackageReference Include="DouglasDwyer.CasCore" Version="0.1.1" />
-  </ItemGroup> -->
+  <ItemGroup>
+    <!-- <PackageReference Include="DouglasDwyer.CasCore" Version="0.1.2" /> -->
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="9.0.0" />
+  </ItemGroup>
 
   <ItemGroup>
     <ProjectReference Include="..\SDK\SDK.csproj" />

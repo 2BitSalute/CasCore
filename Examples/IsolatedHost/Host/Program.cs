@@ -1,4 +1,6 @@
 ﻿using System.Reflection;
+
+using Microsoft.Extensions.DependencyInjection;
 using DouglasDwyer.CasCore;
 
 var goodLibraryFullPath = Path.GetFullPath(@"..\GoodLibrary\bin\Debug\net9.0\GoodLibrary.dll");

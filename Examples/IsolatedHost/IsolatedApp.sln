@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoodLibrary", "GoodLibrary\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CasCore", "..\..\CasCore\CasCore.csproj", "{9DEA9A49-DA25-4071-B6E1-C6EBC8DDF0AA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BadLibrary", "BadLibrary\BadLibrary.csproj", "{0BC20698-805C-42ED-AE99-A5F0943E086D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -42,5 +44,9 @@ Global
 		{9DEA9A49-DA25-4071-B6E1-C6EBC8DDF0AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9DEA9A49-DA25-4071-B6E1-C6EBC8DDF0AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9DEA9A49-DA25-4071-B6E1-C6EBC8DDF0AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0BC20698-805C-42ED-AE99-A5F0943E086D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BC20698-805C-42ED-AE99-A5F0943E086D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BC20698-805C-42ED-AE99-A5F0943E086D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BC20698-805C-42ED-AE99-A5F0943E086D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
